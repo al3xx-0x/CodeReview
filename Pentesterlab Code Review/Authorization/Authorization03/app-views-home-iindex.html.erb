@@ -1,0 +1,25 @@
+<div class="starter-template">
+  <h1>Authorisation 03</h1>
+  <p class="lead">This exercise covers the exploitation of a vulnerability in
+  the authorisation of a rails application.</p>
+</div>
+
+<h1>Users</h1>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @users.each do |user| %>
+      <tr>
+        <td><%= user.email %></td>
+        <td><%= link_to 'Show', user %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
