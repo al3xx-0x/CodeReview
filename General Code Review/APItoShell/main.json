@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "id": "1",
+            "name": "text.txt",
+            "uuid": "file695d204b433b0695d204b433f3",
+            "sig": "1794b3ba0b883349d50304a8c007bc8d"
+        },
+        {
+            "id": "2",
+            "name": "text.txt",
+            "uuid": "file695d20a87233c695d20a87236c",
+            "sig": "6105167f2ce306783c0483af689ee225"
+        },
+        {
+            "id": "3",
+            "name": "text.txt",
+            "uuid": "file695d20aeb7866695d20aeb78a8",
+            "sig": "32a634d044455c2d0e9cea48bf09715c"
+        }
+    ]
+}
